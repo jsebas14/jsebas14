@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Juan Sebastian Bermudez
 
-<!--
-**jsebas14/jsebas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hardware and Firmware Engineer Specializing in Embedded Systems
 
-Here are some ideas to get you started:
+I'm an electronic engineer with over 5 years of experience in **hardware** (PCB) design, **embedded firmware** development, and project management. I've developed innovative electronic devices that have a positive impact in fields like **electric power**, **agriculture**, **sustainable development**, and **biomechanics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects:
+- **Energy Monitoring System**: Developed an embedded system for real-time energy consumption monitoring.
+- **IoT Precision Agriculture System**: Designed wireless sensors to optimize resources in farming.
+
+## 🛠️ Technologies & Tools:
+- **Languages**: C/C++, Python
+- **Hardware**: Altium, KiCad, ARM Cortex
+- **Communication**: BLE, Wi-Fi, LoRa
+
+## 🌐 Find me at:
+- **LinkedIn**: https://www.linkedin.com/in/juan-sebastian-bermudez-s/
+
+
